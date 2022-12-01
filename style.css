@@ -1,0 +1,43 @@
+*{
+    padding: 0 ;
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.container-fluid img {
+    width: 307px;
+    height: 56px;
+}
+.row img{
+    width: 70%;
+    
+}
+.colorcode{
+    color: rgba(118,194,126,255);
+}
+.btn{
+    background-color: rgb(61, 24, 96);
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.logopic img {
+    width: 99px;
+    margin: 36px;
+}
+.people img {
+    width: 100%;
+    margin-top: 125px;
+}
+.bagcard{
+    border: 10px;
+}
+.cardphoto img {
+    width: 272px;
+    margin-left: auto;
+    height: 270px;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #dcdcdc80;
+}
