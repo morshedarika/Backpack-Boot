@@ -34,7 +34,7 @@ body{
     border: 10px;
 }
 .cardphoto img {
-    width: 272px;
+    width: 100%;
     margin-left: auto;
     height: 270px;
     margin-right: auto;
